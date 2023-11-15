@@ -73,7 +73,7 @@ border: none;
 
 .coffee{
     background: linear-gradient(90deg, #1E1E1E -6.88%, rgba(0, 0, 0, 0.00) 87.45%);
-    background-image: url(./img/coffee1.jpg) ;
+    background-image: url(../img/coffee1.jpg) ;
     width: 100%;
     height: 800px;
     background-repeat: no-repeat;
@@ -392,7 +392,7 @@ border: none;
 /* get */
 
 .get{
-background-image: url(./img/foon.png);
+background-image: url(../img/foon.png);
 
 height: 600px;
 }
