@@ -976,9 +976,10 @@ border: none;
 
 .footer{
 display: flex;
-background-image:url(./img/poslefniy.png),;
+background-image:url(../img/fotter_image.png),
+url(../img/Rectangle\ 7.png);
+background-blend-mode: overlay;
 height: 500px;
-background-color: orange    ;
 }
 
 .f1{
